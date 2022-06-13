@@ -8,7 +8,7 @@
     border-radius: 7px;
 }
 body{
-    background-image: url("./template.jpg");
+    background-image: url("/template.jpg");
 }    
 
 .cabecera{
