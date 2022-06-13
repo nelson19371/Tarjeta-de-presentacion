@@ -1,0 +1,19 @@
+.divTarjeta img{
+    width: 80%;
+    height: 50%;
+    border: 2px solid black;
+    margin: 0 auto;
+    max-width: 90%;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+body{
+    background-image: url("/template.jpg");
+}    
+
+.cabecera{
+    background: black;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.897);
+    text-align: center;
+}
